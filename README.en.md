@@ -113,7 +113,7 @@ The results reflect not direct brain drain figures, but the relative indirect ri
 
 - [x] End-to-end MCDM analysis in Excel
 - [x] Study report (PDF)
-- [ ] **Python implementation** — Entropy, MOORA and COPRAS coded from scratch with `pandas` / `numpy`, validated against the Excel results *(coming soon)*
+- [x] **Python implementation** — Entropy, MOORA and COPRAS coded from scratch with `pandas` / `numpy`, validated against the Excel results completed.
 
 ---
 
