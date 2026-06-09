@@ -113,7 +113,7 @@ Elde edilen sonuçlar doğrudan beyin göçü verilerini değil, proxy gösterge
 
 - [x] Excel ile uçtan uca ÇKKV analizi
 - [x] Çalışma raporu (PDF)
-- [ ] **Python implementasyonu** — Entropi, MOORA ve COPRAS yöntemlerinin `pandas` / `numpy` ile sıfırdan kodlanması ve Excel sonuçlarıyla doğrulanması *(yakında)*
+- [x] **Python implementasyonu** — Entropi, MOORA ve COPRAS yöntemlerinin `pandas` / `numpy` ile sıfırdan kodlanması ve Excel sonuçlarıyla doğrulanması tamamlandı.
 
 ---
 
